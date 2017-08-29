@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "babel": "node node_modules\\babel-cli\\bin\\babel es2017.js"
+    "babel": "node node_modules\\babel-cli\\bin\\babel es2017.js prototypeIncludes.js"
   },
   "repository": {
     "type": "git",
